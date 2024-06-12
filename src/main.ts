@@ -5,4 +5,3 @@ function multiplica(number1:number,number2:number):number {
 function dizOla(nome:string) {
     return "Olá"+ " "+ nome
 }
-console.log(dizOla("matheus"))
